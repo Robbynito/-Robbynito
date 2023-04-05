@@ -1,8 +1,8 @@
 # Robbynito
 
-![Skeleton staring at plant on turntable](https://media.giphy.com/media/26u4ockRZI0MLzETS/giphy.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-> I know what dogs are
+> This is where my quote goes
 ## Web/UX Designer
 ## Links
 * [Github](https://github.com/Robbynito/Robbynito) which is a little redundent
