@@ -1,6 +1,6 @@
 # Robbynito
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbynito&show_icons=true&theme=synthwave)
 
 > This is where my quote goes
 ## Web/UX Designer
