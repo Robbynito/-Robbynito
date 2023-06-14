@@ -5,6 +5,8 @@ My portfolio is light, most of it is stuff I've done for school. But I'm proud o
 
 So sit down, have a cup of tea and hangout for a bit.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 ## Designer
 ## Links
