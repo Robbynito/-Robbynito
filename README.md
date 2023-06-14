@@ -1,14 +1,13 @@
 # Hey my name's Robbyn
 
-I don't know what to say about myself. I wanna be a web designer but I don't have much to show at the moment, so let's change that!
+I am a "Web Designer" I know how to code (to some degree) but I don't feel like I have enough experience to call myself a fully-fledged Web Designer
 
 
-## Web/UX Designer
+## Designer
 ## Links
 * [Github](https://github.com/Robbynito/Robbynito) which is a little redundent
 * [Codepen](codepen.io/Robbyn-Yeager)
 * [Gmail](robbynito@gmail.com)
-* [My Website](robbynito.me)
 
 ## Skills
 * Web Design
